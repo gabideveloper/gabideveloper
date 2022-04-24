@@ -1,4 +1,4 @@
-### Oi gente! Meu nome é Gabi! 😉
+### Oii! Eu sou a Gabi! 😉
 
 
 
