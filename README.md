@@ -44,27 +44,13 @@
 
 ---
 
-### Sobre mim
-
-- 🎓 Estudante de desenvolvimento web
-- 🌱 Atualmente aprendendo TypeScript e Next.js
-- 💼 Aberta a novas oportunidades e colaborações
-
-<div align="center">
+<div ">
   <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Gabi's GitHub stats">
 </div>
 
 ---
 
-### Meus Projetos Recentes
-
-- [Projeto 1](#)
-- [Projeto 2](#)
-- [Projeto 3](#)
-
----
-
-<div align="center">
+<div >
   <img src="https://github.com/seu-usuario/seu-usuario/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
