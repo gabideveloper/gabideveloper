@@ -45,12 +45,7 @@
 ---
 
 <div ">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Gabi's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabideveloper&show_icons=true&theme=radical" alt="Gabi's GitHub stats">
 </div>
 
----
-
-<div >
-  <img src="https://github.com/seu-usuario/seu-usuario/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
 
