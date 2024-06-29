@@ -42,10 +42,6 @@
   <img align="center" alt="Gabi-TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
----
 
-<div ">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabideveloper&show_icons=true&theme=radical" alt="Gabi's GitHub stats">
-</div>
 
 
